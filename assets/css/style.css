@@ -2219,3 +2219,12 @@ Icon for all respective meta
     padding: 5px;
     box-shadow: 0 0px 0px 1px #eee;
 }
+
+@media (max-width : 740px) {
+
+    #workss .portfolio-item2 {width: 100%}
+    
+    #workss .portfolio-item2:last-child .portfolio {
+    width: 100%;
+        margin: 0 auto;}
+}
