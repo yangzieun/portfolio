@@ -241,7 +241,7 @@ display: none}
 
 /* Main image in popup */
 img.mfp-img {
-  width: auto;
+  width: 100%;
   display: block;
   line-height: 0;
   -webkit-box-sizing: border-box;
