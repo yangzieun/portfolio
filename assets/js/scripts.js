@@ -399,23 +399,6 @@ jQuery(function ($) {
     }());
     
     
-    function isMobile(){
- return /(iphone|ipod|ipad|android|blackberry|windows ce|palm|symbian)/i.test(navigator.userAgent);
-}
- if(!isMobile()){
-    var startBool = true;
-    $( window ).resize( function(){
-
-  if( startBool ) {
-           var locUrl = location.href;
-            location.href = locUrl;       
-            startBool = false;
-           
-        }
- 
-    });
-}
-
 
 });
 
