@@ -322,7 +322,7 @@ ul.list-check li::before {
         height: 560px !important;
     }
     
-    .v_rain {width: 78%; position: absolute; top: 5.8% !important; left: 12%}
+    .v_rain {width: 78.2%; position: absolute; top: 6.9% !important; left: 12%}
 }
 
 
@@ -574,7 +574,7 @@ SOCIAL ICON
 /* === sub1 play section === */
 .video_rain {width: 100%; /* height: 1000px; background-image: url(../../sub2rain/sub2frame.png); background-size: contain; background-repeat: no-repeat; background-position: center center;*/ position:relative}
 .v_rain_frame {position: relative;}
-.v_rain {width: 78%; position: absolute; top: 9.5%; left: 12%}
+.v_rain {width: 78.2%; position: absolute; top: 9.5%; left: 11%}
 
 #play {text-align: center; position: relative; width: 100%; border-bottom: 1px solid #eee}
 
