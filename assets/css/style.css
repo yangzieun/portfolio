@@ -373,7 +373,7 @@ ul.list-check li::before {
 .intro {
 	position: absolute;
 	width: 100%;
-	top: 45%;
+	top: 40%;
 	left: 20%;
 	text-align: center;
 	-webkit-transform: translate(0%, -50%);
