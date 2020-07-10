@@ -321,6 +321,8 @@ ul.list-check li::before {
     .tt-fullHeight{
         height: 560px !important;
     }
+    
+    .v_rain {width: 78%; position: absolute; top: 5.8% !important; left: 12%}
 }
 
 
@@ -1251,7 +1253,7 @@ Resume Timeline
 
 /* === Work Section === */
 .works-section {
-    background-color: #f7f7f7;
+    background-color: #f9fafa;
 }
 
 #workss .section-title {margin-bottom: 120px !important}
@@ -1766,7 +1768,7 @@ Icon for all respective meta
     background-size: cover;
 }
 .hire-section-bg {
-    padding: 150px 0;
+    padding: 150px;
 }
 
 .hire-section h2 {
@@ -2227,6 +2229,25 @@ Icon for all respective meta
     #workss .portfolio-item2:last-child .portfolio {
     width: 100%;
         margin: 0 auto;}
+    
+    .intro {top: 60%;}
+    
+    .skill-title h3 {
+    font-size: 16px !important;
+    }
+        
+    .portfolio:hover .linkss {
+    opacity: 1;
+    -webkit-transform: translate(0,0);
+    -moz-transform: translate(0,0);
+    -ms-transform: translate(0,0);
+    -o-transform: translate(0,0);
+    transform: translate(0,100px);
+}
+
+    #play .video_rain .rainbtn {
+    margin: 30px
+}
     
 
 }
