@@ -147,6 +147,22 @@
   		font-size: 15px;
   		margin-right: 0;
 	}
+    
+        #brosbx .brosbx_btn1 {
+        position: absolute;
+        left: 35%;
+        top: 3%;
+        transform: translateX(-80%) translateY(-370%);
+        color: #fff
+    }
+
+    .brosbx_btn2 {
+        position: absolute;
+        left: 65%;
+        top: 3%;
+        transform: translateX(-15%) translateY(-370%);
+        color: #fff
+    }
 }
 
 /* Landscape Mobile */
