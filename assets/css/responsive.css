@@ -147,22 +147,6 @@
   		font-size: 15px;
   		margin-right: 0;
 	}
-    
-    #brosbx .brosbx_btn1 {
-        position: absolute;
-        left: 35%;
-        top: 3%;
-        transform: translateX(-80%) translateY(-370%);
-        color: #fff
-    }
-
-    #brosbx .brosbx_btn2 {
-        position: absolute;
-        left: 65%;
-        top: 3%;
-        transform: translateX(-15%) translateY(-370%);
-        color: #fff
-    }
 }
 
 /* Landscape Mobile */
@@ -307,22 +291,6 @@
   		font-size: 14px;
   		margin-right: 20px;
 	}
-    
-    #brosbx .brosbx_btn1 {
-        position: absolute;
-        left: 35%;
-        top: 3%;
-        transform: translateX(-80%) translateY(-370%);
-        color: #fff
-    }
-
-    #brosbx .brosbx_btn2 {
-        position: absolute;
-        left: 65%;
-        top: 3%;
-        transform: translateX(-15%) translateY(-370%);
-        color: #fff
-    }
 
 
 }
@@ -403,22 +371,6 @@
 		text-align: center;
 		padding:0 15px;
 	}
-    
-    #brosbx .brosbx_btn1 {
-        position: absolute;
-        left: 35%;
-        top: 3%;
-        transform: translateX(-80%) translateY(-370%);
-        color: #fff
-    }
-
-    #brosbx .brosbx_btn2 {
-        position: absolute;
-        left: 65%;
-        top: 3%;
-        transform: translateX(-15%) translateY(-370%);
-        color: #fff
-    }
 
 
 }
